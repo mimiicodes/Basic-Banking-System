@@ -28,7 +28,7 @@
            <span class="tooltip">Search</span>
         </li>
         <li>
-          <a href="../index.html">
+          <a href="../index.php">
             <i class='bx bx-grid-alt'></i>
             <span class="links_name">Dashboard</span>
           </a>
@@ -42,14 +42,14 @@
          <span class="tooltip">Customers</span>
        </li>
        <li>
-         <a href="./transfer.html">
+         <a href="./transfer.php">
             <i class='bx bx-share bx-flip-horizontal' ></i>
            <span class="links_name">Transfer</span>
          </a>
          <span class="tooltip">Transfer</span>
        </li>
        <li>
-         <a href="./transactions.html">
+         <a href="./transactions.php">
             <i class='bx bx-list-ul'></i>
            <span class="links_name">Transactions</span>
          </a>

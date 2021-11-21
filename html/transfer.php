@@ -29,14 +29,14 @@
            <span class="tooltip">Search</span>
         </li>
         <li>
-          <a href="../index.html">
+          <a href="../index.php">
             <i class='bx bx-grid-alt'></i>
             <span class="links_name">Dashboard</span>
           </a>
            <span class="tooltip">Dashboard</span>
         </li>
         <li>
-         <a href="./customers.html">
+         <a href="./customers.php">
            <i class='bx bx-user' ></i>
            <span class="links_name">Customers</span>
          </a>
@@ -50,7 +50,7 @@
          <span class="tooltip">Transfer</span>
        </li>
        <li>
-         <a href="./transactions.html">
+         <a href="./transactions.php">
             <i class='bx bx-list-ul'></i>
            <span class="links_name">Transactions</span>
          </a>

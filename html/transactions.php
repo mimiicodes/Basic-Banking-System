@@ -42,7 +42,7 @@
          <span class="tooltip">Customers</span>
        </li>
        <li>
-         <a href="./transfer..php">
+         <a href="./transfer.php">
             <i class='bx bx-share bx-flip-horizontal' ></i>
            <span class="links_name">Transfer</span>
          </a>
