@@ -177,7 +177,7 @@ $conn->close();
       $sqltransac = "INSERT INTO  transaction (id, Message, Dater, soney) VALUES ('', 'Txn: Debit \n Amt: NGN $monman \n Bal : NGN $walletAmount \n Date : $currentyear $currenttime \n COVID19 is real #StaySafe', '$currentyear $currenttime' , '$monman')";
 		    if ($conn->query($newsql) === TRUE && $conn -> query($newdata) === TRUE && $conn -> query($sqltransac) === TRUE && $conn->query($prevmoney)) {
             
-            echo "<h4 class='nimc'> Transfer successfully </h4>";
+            echo "<h4 class='nimc'> Transferred successfully </h4>";
 		    } else {
 		        echo "Error updating record: " . $conn->error;
 		    }
