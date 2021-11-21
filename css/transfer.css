@@ -1,0 +1,39 @@
+.transfer{
+    margin-top: 25px;
+    padding-left: 25px;
+}
+
+@media screen and (max-width: 768px) {
+    .transfer{
+        padding: 20px;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
+
+
+#customers, #amount{
+    padding: 10px 15px;
+    outline: none;
+    color: midnightblue;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+}
+
+#transfer{
+    padding: 10px 15px;
+    outline: none;
+    border: 1px solid #E4E9F7;
+    color: #fff;
+    background: midnightblue;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+#transfer:hover{
+    background: #fff;
+    color: midnightblue;
+    border: 1px solid midnightblue;
+    transition: all 0.2s ease-in-out;
+}
